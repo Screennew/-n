@@ -1,0 +1,5 @@
+
+body { background: #f8fafc; }
+.hero { background-image: linear-gradient(135deg, #e0f2ff, #fef3c7); }
+.product-card img { object-fit: cover; height: 160px; }
+footer a { text-decoration: none; }
